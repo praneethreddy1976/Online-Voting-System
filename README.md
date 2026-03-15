@@ -84,14 +84,14 @@ Core system responsible for:
 
 ### Default Voters
 
-101 - Kohli
-102 - Dhoni
+101 - Kohli,
+102 - Dhoni,
 103 - Rohit
 
 ### Default Candidates
 
-1 - A
-2 - B
+1 - A,
+2 - B,
 3 - C
 
 ---
