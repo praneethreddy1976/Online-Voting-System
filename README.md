@@ -98,17 +98,17 @@ Core system responsible for:
 
 ## Menu Options
 
-1  Register Voter
-2  Delete Voter
-3  Show Voters
-4  Add Candidate
-5  Delete Candidate
-6  Show Candidates
-7  Cast Vote
-8  Process Votes
-9  Show Results
-10 Audit Log
-11 Exit
+1. Register Voter
+2. Delete Voter
+3. Show Voters
+4. Add Candidate
+5. Delete Candidate
+6. Show Candidates
+7. Cast Vote
+8. Process Votes
+9. Show Results
+10. Audit Log
+11. Exit
 
 ---
 
@@ -134,25 +134,6 @@ Core system responsible for:
 | Cast vote      | O(1)       |
 | Process votes  | O(n)       |
 | Show results   | O(n)       |
-
----
-## Example Output
-
-```
-===== ONLINE VOTING SYSTEM =====
-
-1 Register Voter
-2 Delete Voter
-3 Show Voters
-4 Add Candidate
-5 Delete Candidate
-6 Show Candidates
-7 Cast Vote
-8 Process Votes
-9 Show Results
-10 Audit Log
-11 Exit
-```
 
 ---
 
